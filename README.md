@@ -30,26 +30,26 @@ javaの開発環境とかで、`module`フォルダの中身をすべてイン�
 
 
 ### 使用ライブラリ
-・QRコードの処理
+- QRコードの処理
 ZXing
 https://github.com/zxing/zxing
 
-・Webカメラを使う
+- Webカメラを使う
 Webcam Capture
 http://www.webcam-capture.sarxos.pl/
 
-・Webcam Captureに必要なライブラリ
+- Webcam Captureに必要なライブラリ
 slf4j関連
 bridj関連
 
-・メール送信機能
+- メール送信機能
 javax.mail
 
-・データベース操作
+- データベース操作
 postgresql-42.2.23.jar
 
 ### 開発環境
-OS: Windows 10 21H1 64ビット
-IDE: IntelliJ IDEA 2021.2 (Community Edition)
-Java:  Java SE Development Kit 16.0.2 64ビット
-データベース: PostgreSQL Database 13.4 64ビット
+- OS: Windows 10 21H1 x64
+- IDE: IntelliJ IDEA 2021.2 (Community Edition)
+- Java:  Java SE Development Kit 16.0.2 x64
+- RDBMS: PostgreSQL Database 13.4 x64
